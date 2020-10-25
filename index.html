@@ -9,7 +9,7 @@
 		<title>Kumsal Photograpy</title>	
 
 		<meta name="keywords" content="HTML5 Template" />
-		<meta name="description" content="Porto - Responsive HTML5 Template">
+		<meta name="description" content="Kumsal Photography - Derya Kaya Atesal">
 		<meta name="author" content="okler.net">
 
 		<!-- Favicon -->
