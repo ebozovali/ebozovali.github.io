@@ -1,4 +1,0 @@
-hakkkımızda - corporate10/about-me/  about-us.html
-sss corporate10/faq/ faq.html
-portfolio portfolio/small-slider/ portfolio.html
-iletişim contact-us/ contact-us.html
