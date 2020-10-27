@@ -9,7 +9,7 @@
     <title>Elber Bozovalı Resume </title>
 
     <meta name="keywords" content="HTML5 Template" />
-    <meta name="description" content="Elber Bozovalı Eesume">
+    <meta name="description" content="Elber Bozovalı Resume">
     <meta name="author" content="elber bozovalı">
 
     <!-- Favicon -->
@@ -221,7 +221,7 @@
                                         <ul class="custom-list-style-1 p-0 mb-0">
                                             <li>
                                                 <span class="text-color-dark">Birthday:</span>
-                                                <span class="custom-text-color-2">1988 October 5</span>
+                                                <span class="custom-text-color-2">1988 January 5</span>
                                             </li>
                                             <li>
                                                 <span class="text-color-dark">Marital:</span>
